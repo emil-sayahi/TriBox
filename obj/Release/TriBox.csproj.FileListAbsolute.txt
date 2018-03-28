@@ -1,0 +1,4 @@
+D:\Programming\TriBox\TriBox\bin\Release\TriBox.dll
+D:\Programming\TriBox\TriBox\obj\Release\TriBox.Properties.Resources.resources
+D:\Programming\TriBox\TriBox\obj\Release\TriBox.csproj.GenerateResource.Cache
+D:\Programming\TriBox\TriBox\obj\Release\TriBox.dll
