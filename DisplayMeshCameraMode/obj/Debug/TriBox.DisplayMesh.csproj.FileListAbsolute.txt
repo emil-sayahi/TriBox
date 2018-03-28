@@ -1,0 +1,9 @@
+D:\Programming\TriBox\DisplayMesh\obj\Debug\TriBox.DisplayMesh.csprojResolveAssemblyReference.cache
+D:\Programming\TriBox\DisplayMesh\bin\Debug\DisplayMesh.exe
+D:\Programming\TriBox\DisplayMesh\bin\Debug\DisplayMesh.pdb
+D:\Programming\TriBox\DisplayMesh\bin\Debug\TriBox.dll
+D:\Programming\TriBox\DisplayMesh\bin\Debug\TriBox.pdb
+D:\Programming\TriBox\DisplayMesh\obj\Debug\DisplayMesh.exe
+D:\Programming\TriBox\DisplayMesh\obj\Debug\DisplayMesh.pdb
+D:\Programming\TriBox\DisplayMeshCameraMode\obj\Debug\DisplayMesh.exe
+D:\Programming\TriBox\DisplayMeshCameraMode\obj\Debug\DisplayMesh.pdb

@@ -1,0 +1,7 @@
+D:\Programming\TriBox\DisplayMesh\bin\Release\DisplayMesh.exe
+D:\Programming\TriBox\DisplayMesh\bin\Release\OpenTK.dll
+D:\Programming\TriBox\DisplayMesh\bin\Release\TriBox.dll
+D:\Programming\TriBox\DisplayMesh\obj\Release\TriBox.DisplayMesh.csprojResolveAssemblyReference.cache
+D:\Programming\TriBox\DisplayMesh\obj\Release\DisplayMeshProperties.Properties.Resources.resources
+D:\Programming\TriBox\DisplayMesh\obj\Release\TriBox.DisplayMesh.csproj.GenerateResource.Cache
+D:\Programming\TriBox\DisplayMesh\obj\Release\DisplayMesh.exe

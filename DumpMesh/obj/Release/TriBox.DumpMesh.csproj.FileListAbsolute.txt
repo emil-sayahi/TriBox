@@ -1,0 +1,6 @@
+D:\Programming\TriBox\DumpMesh\bin\Release\TriBox.dll
+D:\Programming\TriBox\DumpMesh\obj\Release\TriBox.DumpMesh.csprojResolveAssemblyReference.cache
+D:\Programming\TriBox\DumpMesh\obj\Release\TriBox.DumpMesh.csproj.GenerateResource.Cache
+D:\Programming\TriBox\DumpMesh\bin\Release\TriBoxInfoDumper.exe
+D:\Programming\TriBox\DumpMesh\obj\Release\TriBoxInfoDumper.Properties.Resources.resources
+D:\Programming\TriBox\DumpMesh\obj\Release\TriBoxInfoDumper.exe

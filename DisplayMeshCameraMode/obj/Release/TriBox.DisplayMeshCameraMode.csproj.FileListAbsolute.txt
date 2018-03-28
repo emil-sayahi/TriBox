@@ -1,0 +1,7 @@
+D:\Programming\TriBox\DisplayMeshCameraMode\bin\Release\DisplayMeshCameraMode.exe
+D:\Programming\TriBox\DisplayMeshCameraMode\bin\Release\OpenTK.dll
+D:\Programming\TriBox\DisplayMeshCameraMode\bin\Release\TriBox.dll
+D:\Programming\TriBox\DisplayMeshCameraMode\obj\Release\TriBox.DisplayMeshCameraMode.csprojResolveAssemblyReference.cache
+D:\Programming\TriBox\DisplayMeshCameraMode\obj\Release\DisplayMeshCameraMode.Properties.Resources.resources
+D:\Programming\TriBox\DisplayMeshCameraMode\obj\Release\TriBox.DisplayMeshCameraMode.csproj.GenerateResource.Cache
+D:\Programming\TriBox\DisplayMeshCameraMode\obj\Release\DisplayMeshCameraMode.exe
